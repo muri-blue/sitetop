@@ -1,0 +1,11 @@
+{
+  "categories": [
+    {
+      "id": "c1",
+      "name": "Exemplo",
+      "links": [
+        {"id": "l1", "title": "Link de exemplo", "url": "https://example.com", "desc": "Edite ou apague em /admin"}
+      ]
+    }
+  ]
+}
